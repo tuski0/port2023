@@ -15,4 +15,4 @@
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
-출처: https://webstoryboy.co.kr/1954 [WEBSTORYBOY:티스토리]
+- 출처: https://webstoryboy.co.kr/1954 [WEBSTORYBOY:티스토리]
